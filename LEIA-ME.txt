@@ -1,0 +1,18 @@
+AGENDA DE TASKS (PWA) - como publicar de graça
+
+Opção A - Netlify Drop (mais fácil, sem cadastro de código)
+1. Acesse app.netlify.com/drop
+2. Arraste a PASTA descompactada (com index.html dentro) para a página.
+3. Você recebe um link https. Abra no celular.
+
+Opção B - GitHub Pages
+1. Crie um repositório público e envie todos os arquivos.
+2. Settings > Pages > Deploy from branch (main / root).
+
+Instalar no celular
+- Android (Chrome): menu ⋮ > "Instalar app" / "Adicionar à tela inicial".
+- iPhone (Safari): botão Compartilhar > "Adicionar à Tela de Início".
+
+Observações
+- Os dados ficam salvos no aparelho (cada aparelho tem a sua lista).
+- Para atualizar, envie os arquivos novos ao GitHub (Add file > Upload files) e, se quiser forçar, aumente a versão em sw.js (V="tasks-v3").
